@@ -1,0 +1,5 @@
+Alquds:20:Al Marj:15:1999:yes
+Jbeneh:121:Nishan street:15:2012:no
+Iskan Al Andalus:120:Gabi Baramke:10:2020:no
+Al Rabee 1:512:Rabee Main Street:10:2021:yes
+Al Rabee 2:513:Rabee Main Street:25:2024:yes
